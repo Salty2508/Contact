@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jean Dupont
+ORG:Entreprise XYZ
+TITLE:Développeur Web
+TEL:+33612345678
+EMAIL:jean.dupont@example.com
+END:VCARD
